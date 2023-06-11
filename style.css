@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+#search .search-title {
+    font-size: 34px;
+    font-weight: 800;
+}
